@@ -435,7 +435,7 @@ Layer:
           ORDER BY COALESCE(layer,0), way_area DESC
         ) AS buildings
     properties:
-      minzoom: 14
+      minzoom: 10
   - id: tunnels
     geometry: linestring
     <<: *extents
