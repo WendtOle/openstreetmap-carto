@@ -1,0 +1,1 @@
+-g --unsafe-perm "https://git@github.com/kosmtik/kosmtik.git"
